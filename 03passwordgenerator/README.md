@@ -1,10 +1,11 @@
 pass created on basis of
 
- lenth req of pass and passed in range
+       lenth req of pass and passed in range
 
- numbers if req through checkbox
+       numbers if req through checkbox
 
- char req through checkbox
+       char req through checkbox
+
 
  studied 
 
