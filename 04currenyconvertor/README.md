@@ -10,7 +10,8 @@ currency convertor requires
 
   currency value from api
 
-  studied  
+
+studied  
 
           custom hook to get data from api by fetch method
 
